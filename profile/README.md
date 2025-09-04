@@ -6,7 +6,7 @@ Whether you are a developer looking to test smart contracts, or a trader curious
 
 ---
 
-> [!🌐 Overview]\
+## 🌐 Overview
 
 > **Solana Faucet** is more than just a token giveaway—it’s a bridge to Web3 adoption. Faucets in the crypto space are platforms that distribute small amounts of tokens to help users perform transactions, test applications, or simply explore blockchain functionality.
 
