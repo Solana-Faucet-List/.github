@@ -1,4 +1,4 @@
-<img width="680" height="306" alt="image" src="https://github.com/user-attachments/assets/4f2e421e-a0c3-4e6a-a4df-74b198b7f7e9" /># Solana Faucet: A Full Guide to the Crypto Airdrop 💧
+# Solana Faucet: A Full Guide to the Crypto Airdrop 💧
 
 > [!IMPORTANT]\
 > In the fast-paced world of decentralized finance (DeFi), one of the most effective ways to encourage adoption and empower users is through a **crypto airdrop**. Enter **Solana Faucet**, a dedicated **Crypto Airdrop Campaign** designed to distribute free SOL tokens across the **DeFi, Web3, wallet, and exchange** ecosystems. Operating primarily on the **Solana blockchain**, this initiative helps **crypto traders, investors, and Web3 users** test applications, explore integrations, and strengthen community participation.
