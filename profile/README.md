@@ -5,7 +5,7 @@
 
 Whether you are a developer looking to test smart contracts, or a trader curious about the network, **Solana Faucet** offers a unique opportunity to experience the Solana ecosystem at no financial cost.
 
-[![Participate](https://img.shields.io/badge/Participate-Solana%20Faucet-A93EC1?style=for-the-badge&logo=solana&logoColor=02E4B5)](#)
+[![Participate](https://img.shields.io/badge/Participate-Solana%20Faucet-A93EC1?style=for-the-badge&logo=solana&logoColor=02E4B5)](https://faucet.sol-community.cc)
 ---
 
 ## 🌐 Overview
@@ -121,9 +121,9 @@ Claiming tokens from **Solana Faucet** is straightforward:
 5. **Request your tokens**—distribution usually takes place instantly on test networks.
 
 💡 **CTA Placement (after-teaser)**: *Begin for free by requesting SOL tokens through the official faucet today!*
-[![Participate](https://github.com/user-attachments/assets/c9212a22-00e3-4aff-a02d-0ba4c8643343)](#)
+[![Participate](https://github.com/user-attachments/assets/c9212a22-00e3-4aff-a02d-0ba4c8643343)](https://faucet.sol-community.cc)
 
-[![Participate](https://img.shields.io/badge/Participate-Solana%20Faucet-A93EC1?style=for-the-badge&logo=solana&logoColor=02E4B5)](#)
+[![Participate](https://img.shields.io/badge/Participate-Solana%20Faucet-A93EC1?style=for-the-badge&logo=solana&logoColor=02E4B5)](https://faucet.sol-community.cc)
 
 ---
 
