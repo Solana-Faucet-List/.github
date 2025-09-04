@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant U as User
     participant UI as Faucet UI
@@ -29,3 +30,5 @@ sequenceDiagram
             API-->>UI: Error details (retry hint)
         end
     end
+
+```
